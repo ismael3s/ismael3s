@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Ismael Souza 😁
 
 - 🔭 Hoje trabalho com principalmente com Front End
-- 🌱 Me apromirando com o React e no Back End com o NodeJS 
+- 🌱 Me apromirando com o React e no Back End usando o NodeJS 
 - 👀 Apaixonado por Javascript e suas mordomias
 
 
