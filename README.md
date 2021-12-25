@@ -1,8 +1,6 @@
 ### Olá! Eu sou o Ismael Souza 😁
-
-- 🔭 Hoje trabalho com principalmente com Front End
-- 🌱 Me aprimorando com o React e no Back End usando o NodeJS 
-- 👀 Apaixonado por Javascript e suas mordomias
+ 
+- 👀 Apaixonado por Javascript
 
 
 <div>
@@ -67,9 +65,6 @@
 <summary><b>Possuo Experiências</b></summary>
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
-    
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
     
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
    
