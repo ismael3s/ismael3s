@@ -9,7 +9,7 @@ I'm constantly challenging myself to create POCs using new technologies to under
 * Enjoy jumping rope
 * Spending time with my girlfriend and my cat
 * Reading on platforms like dev.to, Medium, and daily.dev
-* Sometimes I like to play games like Elden Ring
+* Sometimes I like to play games
 * Writing about what I'm learning using Markdown
 
 ## What I'm Learning / What I Want to Do
