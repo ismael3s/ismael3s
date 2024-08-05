@@ -2,7 +2,7 @@
 
 I'm Ismael Santana, a passionate full-stack software developer with a focus on backend development. In my free time, I enjoy reading about new technologies and exploring how they solve problems I've faced before. I see programming languages as tools and strive to use the right tool for day-to-day challenges.
 
-I'm constantly challenging myself to create POCs using new technologies to understand their benefits and tradeoffs. As a result, I have experience with Elixir, Golang, Node.js, React, Next.js, Angular, C#, and a bit of Kotlin. I love simplicity when programming and deploying my applications, and I'm a fan of Docker, Mermaid, SQLite, software design, and functional programming.
+I'm constantly challenging myself to create POCs using new technologies to understand their benefits and tradeoffs. As a result, I have experience with Elixir, Golang, Node.js, React, Next.js, Angular, and C#(.NET). I love simplicity when programming and deploying my applications, and I'm a fan of Docker, Mermaid, SQLite, software design, and functional programming.
 
 ## Hobbies
 
