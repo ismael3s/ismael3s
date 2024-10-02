@@ -14,7 +14,7 @@ In my free time, I enjoy reading about new technologies and exploring how they c
 
 ## What I'm Learning / What I Want to Do
 
-Lately, I've been learning about Phoenix LiveView and WebSockets, and I plan to share my knowledge through a digital garden or on YouTube. To achieve this, I'm improving my English and communication skills.
+Lately, I've been learning about .NET and Golang, and I plan to share my knowledge through a digital garden or on YouTube. To achieve this, I'm improving my English and communication skills.
 
 ## Fun Fact (Maybe?)
 
