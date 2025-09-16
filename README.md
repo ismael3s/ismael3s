@@ -1,9 +1,6 @@
 # Hi there 👋
 
-I'm Ismael Santana, a passionate full-stack software developer with a focus on backend development. I've been working as a developer since 2021, and my journey into programming began in high school in 2016. I see programming languages as tools and strive to use the right one for daily challenges.
-
-In my free time, I enjoy reading about new technologies and exploring how they can solve problems I've encountered. I constantly challenge myself to create POCs using new technologies to understand their benefits and tradeoffs. This has led me to gain experience with  Node.js, C#, React, Next.js, RabbitMQ and Angular. I value simplicity in programming and deployment, and I'm a fan of Docker, Mermaid, SQLite, software design.
-
+I'm Ismael Santana, a software developer with a focus on backend development. 
 
 ## Random
 
